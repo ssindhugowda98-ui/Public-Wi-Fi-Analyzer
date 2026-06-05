@@ -1,1 +1,3 @@
-
+session_id,node_id,mac_address_hashed,bytes_transferred,connection_duration_secs,timestamp,coordinates
+S0001,NODE_101,USR_1234,1200000,1800,2026-05-01T10:00:00,"[12.9716,77.5946]"
+S0002,NODE_102,USR_5678,2400000,3600,2026-05-01T11:00:00,"[12.9720,77.5950]"
