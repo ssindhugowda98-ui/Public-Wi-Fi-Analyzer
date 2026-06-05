@@ -1,5 +1,9 @@
 import pandas as pd
+import os
 
+print(os.getcwd())
+print(os.listdir())
+print(os.listdir("data"))
 def load_data():
 
     sessions = pd.read_csv(
