@@ -1,1 +1,4 @@
+nodes = pd.read_json(
+    "data/wifi_nodes.json"
+)
 
